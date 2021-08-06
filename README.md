@@ -25,9 +25,9 @@ Comecei a ter compreender melhor o conceito de propriedades do React, passando-o
 Também aprendi a criar componentes que contém filhos, usando o ReactNode como tipo e incluindo *children*, recebendo essa propriedade. Bem útil no useContext!
 No React também aprendi a **criar um hook**, e foi sensacional!
 
-Conheci o **Mirage JS** e o conceito de fake API, e o quanto isso ajuda no desenvolvimento frontend.
-
 Conheci o **React-modal** e decidi que vou usá-lo todas as vezes que precisar de algo do tipo.
+
+Conheci o **Mirage JS** e o conceito de fake API, e o quanto isso ajuda no desenvolvimento frontend.
 
 Conheci o método **Intl** do JS e espero nunca mais sofrer com formatação de moedas e datas.
 
